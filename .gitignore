@@ -1,0 +1,9 @@
+# Binary
+logos
+
+# Build artifacts
+*.o
+
+# Other files
+*.svg
+*.txt
