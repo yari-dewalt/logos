@@ -1,4 +1,4 @@
-CC = cc
+CC = gcc
 CFLAGS = -Wall
 SRCDIR = src
 SOURCES = $(wildcard $(SRCDIR)/*.c)
