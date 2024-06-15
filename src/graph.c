@@ -338,12 +338,24 @@ void draw_graph(graph_t* g, char* bg_color, char* node_color, int text_size) {
   }
 
   // Get filename from graph's title.
-  size_t filename_length = strlen(g->title) + 5;
-  char* svg_filename = malloc(filename_length * sizeof(char));
+  char* svg_filename;
+  size_t filename_length;
+  if (strcmp(g->title, "") == 0) {
+    filename_length = strlen("output") + 5;
+  } else {
+    filename_length = strlen(g->title) + 5;
+  }
+  svg_filename = malloc(filename_length * sizeof(char));
   if (!svg_filename) {
     fprintf(stderr, "Memory allocation failed for svg_filename\n");
+    return;
   }
-  snprintf(svg_filename, filename_length, "%s.svg", g->title);
+
+  if (strcmp(g->title, "") == 0) {
+    snprintf(svg_filename, filename_length, "output.svg");
+  } else {
+    snprintf(svg_filename, filename_length, "%s.svg", g->title);
+  }
 
   // Finally, save and free svg.
   svg_save(svg, svg_filename);
