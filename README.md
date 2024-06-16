@@ -69,7 +69,7 @@ Double edge creation and inline declaration /*</code>
 </ul>
 <h4>Node/Variable Declaration</h4>
 <ul>
-<li><p>Nodes/variables are defined and later referenced by identifiers. They must be assigned to a string or a separate identifier.</p>
+<li><p>Nodes/variables are defined and later referenced by identifiers. They must be assigned to a string or a separate identifier. The first time a node receives an edge, it becomes a child of that node so order matters! <b>Note: </b> The node with the first edge created in the graph becomes the root node.</p>
 <code>Node1 = "First Node"
 Node2 = "Second Node"
 Node 3 = Node1</code>
@@ -94,6 +94,16 @@ Node 3 = Node1</code>
 A -> B <-> C
 A -> B = "B Child" <-> C = "C Child"
 </code>
+</li>
+<h4>Comments</h4>
+<li><p>`//` can be used to comment out an entire line.</p>
+<code>// TODO: Add more options</code>
+</li>
+<li><p>`/*` ... `*/` can be used to comment out multiple lines (upto wherever the closing multi-line quote character is).</p>
+<code>/* This is an example
+of
+multi-line
+comments!</code>
 </li>
 </ul>
 <h3>Customization</h3>
