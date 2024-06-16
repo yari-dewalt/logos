@@ -49,7 +49,7 @@ A -> D</code>
     <p><b>View the Output:</b></p>
     <p>Logos will generate an SVG file representing your logic as a graph. Open the SVG file in a web browser or any compatible viewer to see the visual representation.</p>
     <div align="center">
-        <img src="./assets/readmeimage1.svg" width="300"></img>
+        <img src="./assets/readmeimage1.svg" width="500"></img>
     </div>
 </ol>
 <h3>Syntax and Grammar</h3>
