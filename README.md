@@ -90,6 +90,8 @@ A -> B = "B Child" <-> C = "C Child"
     <li><b>-bgc [color] (--background-color [color])</b> for background color.</li>
     <li><b>-nc [color] (--node-color [color])</b> for node color.</li>
     <li><b>-ts [color] (--text-size [size])</b> for text size.</li>
+    <li><b>--help</b> for help information.</li>
+    <li><b>--version</b> to check the program version.</li>
 </ul>
 <p><b>Note: </b>All option values that are valid svg values will work. This means that color names like "white" or hex or rgb values will work. If they aren't valid there will be unexpected results. It is recommended to surround option values with double quotes (examples: "orange", "rgb(30, 30, 30)", "#FFFFFFF", "24"). It should also work without but shells can behave differently (I know sometimes the parentheses without a double quote can cause problems).</p>
 <h3>Contribution</h3>
