@@ -114,7 +114,7 @@ static void assignment(char* prev_name, bool add_edge, bool add_two_edges);
 static void arrow(char* prev_name) {
   // Get name.
   char* name = strndup(parser.curr.start, parser.curr.length);
-  if (!is_declared(name))
+  if (!is_declared(name) && !prev_name)
     error("Undefined variable.");
 
   // prev_name from inline or chaining.
@@ -298,7 +298,6 @@ static void assignment(char* prev_name, bool add_edge, bool add_two_edges) {
       else {
         error("Undefined variable.");
       }
-      next_token();
     } else {
       error("Expected string or identifier.");
     }
