@@ -1,0 +1,16 @@
+{"Outline"}
+start = "Start Project"
+parsing = "Parsing Data"
+start -> parsing
+lexer = "Lexer"
+parser = "Parser"
+interpreter = "Interpreter"
+parsing -> lexer
+parsing -> parser -> interpreter
+lexer -> parser
+draw = "Draw data"
+interpreter -> draw
+draw -> bg = "Background"
+draw -> title = "Title"
+draw -> edges = "Edges"
+draw -> nodes = "Nodes"

@@ -1,0 +1,31 @@
+<svg width='1720px' height='1840px' xmlns='http://www.w3.org/2000/svg' version='1.1' xmlns:xlink='http://www.w3.org/1999/xlink'>
+  <rect fill='saddlebrown' stroke='saddlebrown' stroke-width='0px' width='1720' height='1840' y='0' x='0' ry='0' rx='0'/>
+  <text x='860' y='260' font-family='sans-serif' stroke='black' fill='black' font-size='48px' text-anchor='middle' dominant-baseline='middle'>Family Tree</text>
+  <line stroke='black' stroke-width='8px' y2='800' x2='640' y1='460' x1='860'/>
+  <line stroke='black' stroke-width='8px' y2='781' x2='675' y1='800' x1='640'/>
+  <line stroke='black' stroke-width='8px' y2='760' x2='642' y1='800' x1='640'/>
+  <line stroke='black' stroke-width='8px' y2='800' x2='1300' y1='460' x1='860'/>
+  <line stroke='black' stroke-width='8px' y2='762' x2='1284' y1='800' x1='1300'/>
+  <line stroke='black' stroke-width='8px' y2='794' x2='1260' y1='800' x1='1300'/>
+  <line stroke='black' stroke-width='8px' y2='1260' x2='420' y1='920' x1='640'/>
+  <line stroke='black' stroke-width='8px' y2='1241' x2='455' y1='1260' x1='420'/>
+  <line stroke='black' stroke-width='8px' y2='1220' x2='422' y1='1260' x1='420'/>
+  <line stroke='black' stroke-width='8px' y2='1260' x2='860' y1='920' x1='640'/>
+  <line stroke='black' stroke-width='8px' y2='1220' x2='857' y1='1260' x1='860'/>
+  <line stroke='black' stroke-width='8px' y2='1241' x2='824' y1='1260' x1='860'/>
+  <line stroke='black' stroke-width='8px' y2='1260' x2='1300' y1='920' x1='1300'/>
+  <line stroke='black' stroke-width='8px' y2='1225' x2='1320' y1='1260' x1='1300'/>
+  <line stroke='black' stroke-width='8px' y2='1225' x2='1280' y1='1260' x1='1300'/>
+  <rect fill='lightgreen' stroke='black' stroke-width='6px' width='400' height='240' y='340' x='660' ry='8' rx='8'/>
+  <text x='860' y='460' font-family='sans-serif' stroke='black' fill='black' font-size='32px' text-anchor='middle' dominant-baseline='middle'>Grandparent</text>
+  <rect fill='lightgreen' stroke='black' stroke-width='6px' width='400' height='240' y='800' x='440' ry='8' rx='8'/>
+  <text x='640' y='920' font-family='sans-serif' stroke='black' fill='black' font-size='32px' text-anchor='middle' dominant-baseline='middle'>Parent 1</text>
+  <rect fill='lightgreen' stroke='black' stroke-width='6px' width='400' height='240' y='800' x='1100' ry='8' rx='8'/>
+  <text x='1300' y='920' font-family='sans-serif' stroke='black' fill='black' font-size='32px' text-anchor='middle' dominant-baseline='middle'>Parent 2</text>
+  <rect fill='lightgreen' stroke='black' stroke-width='6px' width='400' height='240' y='1260' x='220' ry='8' rx='8'/>
+  <text x='420' y='1380' font-family='sans-serif' stroke='black' fill='black' font-size='32px' text-anchor='middle' dominant-baseline='middle'>Child 1</text>
+  <rect fill='lightgreen' stroke='black' stroke-width='6px' width='400' height='240' y='1260' x='660' ry='8' rx='8'/>
+  <text x='860' y='1380' font-family='sans-serif' stroke='black' fill='black' font-size='32px' text-anchor='middle' dominant-baseline='middle'>Child 2</text>
+  <rect fill='lightgreen' stroke='black' stroke-width='6px' width='400' height='240' y='1260' x='1100' ry='8' rx='8'/>
+  <text x='1300' y='1380' font-family='sans-serif' stroke='black' fill='black' font-size='32px' text-anchor='middle' dominant-baseline='middle'>Child 3</text>
+</svg>

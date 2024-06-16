@@ -1,0 +1,36 @@
+<svg width='2160px' height='2080px' xmlns='http://www.w3.org/2000/svg' version='1.1' xmlns:xlink='http://www.w3.org/1999/xlink'>
+  <rect fill='white' stroke='white' stroke-width='0px' width='2160' height='2080' y='0' x='0' ry='0' rx='0'/>
+  <text x='1080' y='216' font-family='sans-serif' stroke='black' fill='black' font-size='45px' text-anchor='middle' dominant-baseline='middle'>Company Org Chart</text>
+  <line stroke='black' stroke-width='8px' y2='712' x2='860' y1='416' x1='1080'/>
+  <line stroke='black' stroke-width='8px' y2='696' x2='896' y1='712' x1='860'/>
+  <line stroke='black' stroke-width='8px' y2='672' x2='864' y1='712' x1='860'/>
+  <line stroke='black' stroke-width='8px' y2='712' x2='1740' y1='416' x1='1080'/>
+  <line stroke='black' stroke-width='8px' y2='679' x2='1716' y1='712' x1='1740'/>
+  <line stroke='black' stroke-width='8px' y2='716' x2='1700' y1='712' x1='1740'/>
+  <line stroke='black' stroke-width='8px' y2='1128' x2='420' y1='832' x1='860'/>
+  <line stroke='black' stroke-width='8px' y2='1125' x2='459' y1='1128' x1='420'/>
+  <line stroke='black' stroke-width='8px' y2='1092' x2='437' y1='1128' x1='420'/>
+  <line stroke='black' stroke-width='8px' y2='1128' x2='1080' y1='832' x1='860'/>
+  <line stroke='black' stroke-width='8px' y2='1088' x2='1075' y1='1128' x1='1080'/>
+  <line stroke='black' stroke-width='8px' y2='1112' x2='1043' y1='1128' x1='1080'/>
+  <line stroke='black' stroke-width='8px' y2='1544' x2='860' y1='1248' x1='1080'/>
+  <line stroke='black' stroke-width='8px' y2='1528' x2='896' y1='1544' x1='860'/>
+  <line stroke='black' stroke-width='8px' y2='1504' x2='864' y1='1544' x1='860'/>
+  <line stroke='black' stroke-width='8px' y2='1544' x2='1300' y1='1248' x1='1080'/>
+  <line stroke='black' stroke-width='8px' y2='1504' x2='1295' y1='1544' x1='1300'/>
+  <line stroke='black' stroke-width='8px' y2='1528' x2='1263' y1='1544' x1='1300'/>
+  <rect fill='white' stroke='black' stroke-width='6px' width='400' height='240' y='296' x='880' ry='8' rx='8'/>
+  <text x='1080' y='416' font-family='sans-serif' stroke='black' fill='black' font-size='30px' text-anchor='middle' dominant-baseline='middle'>Chief Executive Officer</text>
+  <rect fill='white' stroke='black' stroke-width='6px' width='400' height='240' y='712' x='660' ry='8' rx='8'/>
+  <text x='860' y='832' font-family='sans-serif' stroke='black' fill='black' font-size='30px' text-anchor='middle' dominant-baseline='middle'>Chief Technology Officer</text>
+  <rect fill='white' stroke='black' stroke-width='6px' width='400' height='240' y='712' x='1540' ry='8' rx='8'/>
+  <text x='1740' y='832' font-family='sans-serif' stroke='black' fill='black' font-size='30px' text-anchor='middle' dominant-baseline='middle'>Chief Financial Officer</text>
+  <rect fill='white' stroke='black' stroke-width='6px' width='400' height='240' y='1128' x='220' ry='8' rx='8'/>
+  <text x='420' y='1248' font-family='sans-serif' stroke='black' fill='black' font-size='30px' text-anchor='middle' dominant-baseline='middle'>Product Manager</text>
+  <rect fill='white' stroke='black' stroke-width='6px' width='400' height='240' y='1128' x='880' ry='8' rx='8'/>
+  <text x='1080' y='1248' font-family='sans-serif' stroke='black' fill='black' font-size='30px' text-anchor='middle' dominant-baseline='middle'>Engineering Manager</text>
+  <rect fill='white' stroke='black' stroke-width='6px' width='400' height='240' y='1544' x='660' ry='8' rx='8'/>
+  <text x='860' y='1664' font-family='sans-serif' stroke='black' fill='black' font-size='30px' text-anchor='middle' dominant-baseline='middle'>Software Engineer</text>
+  <rect fill='white' stroke='black' stroke-width='6px' width='400' height='240' y='1544' x='1100' ry='8' rx='8'/>
+  <text x='1300' y='1664' font-family='sans-serif' stroke='black' fill='black' font-size='30px' text-anchor='middle' dominant-baseline='middle'>Software Engineer</text>
+</svg>

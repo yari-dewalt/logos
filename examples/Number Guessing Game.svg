@@ -1,0 +1,64 @@
+<svg width='1280px' height='2560px' xmlns='http://www.w3.org/2000/svg' version='1.1' xmlns:xlink='http://www.w3.org/1999/xlink'>
+  <rect fill='white' stroke='white' stroke-width='0px' width='1280' height='2560' y='0' x='0' ry='0' rx='0'/>
+  <text x='640' y='120' font-family='sans-serif' stroke='black' fill='black' font-size='36px' text-anchor='middle' dominant-baseline='middle'>Number Guessing Game</text>
+  <line stroke='black' stroke-width='8px' y2='520' x2='640' y1='320' x1='640'/>
+  <line stroke='black' stroke-width='8px' y2='485' x2='660' y1='520' x1='640'/>
+  <line stroke='black' stroke-width='8px' y2='485' x2='620' y1='520' x1='640'/>
+  <line stroke='black' stroke-width='8px' y2='840' x2='640' y1='640' x1='640'/>
+  <line stroke='black' stroke-width='8px' y2='805' x2='660' y1='840' x1='640'/>
+  <line stroke='black' stroke-width='8px' y2='805' x2='620' y1='840' x1='640'/>
+  <line stroke='black' stroke-width='8px' y2='1160' x2='640' y1='960' x1='640'/>
+  <line stroke='black' stroke-width='8px' y2='1125' x2='660' y1='1160' x1='640'/>
+  <line stroke='black' stroke-width='8px' y2='1125' x2='620' y1='1160' x1='640'/>
+  <line stroke='black' stroke-width='8px' y2='1480' x2='860' y1='960' x1='640'/>
+  <line stroke='black' stroke-width='8px' y2='1440' x2='864' y1='1480' x1='860'/>
+  <line stroke='black' stroke-width='8px' y2='1455' x2='828' y1='1480' x1='860'/>
+  <line stroke='black' stroke-width='8px' y2='1800' x2='860' y1='960' x1='640'/>
+  <line stroke='black' stroke-width='8px' y2='1761' x2='870' y1='1800' x1='860'/>
+  <line stroke='black' stroke-width='8px' y2='1771' x2='831' y1='1800' x1='860'/>
+  <line stroke='black' stroke-width='8px' y2='2120' x2='860' y1='960' x1='640'/>
+  <line stroke='black' stroke-width='8px' y2='2082' x2='873' y1='2120' x1='860'/>
+  <line stroke='black' stroke-width='8px' y2='2089' x2='833' y1='2120' x1='860'/>
+  <line stroke='black' stroke-width='8px' y2='1480' x2='420' y1='1280' x1='640'/>
+  <line stroke='black' stroke-width='8px' y2='1471' x2='459' y1='1480' x1='420'/>
+  <line stroke='black' stroke-width='8px' y2='1441' x2='432' y1='1480' x1='420'/>
+  <line stroke='black' stroke-width='8px' y2='1480' x2='860' y1='1280' x1='640'/>
+  <line stroke='black' stroke-width='8px' y2='1441' x2='847' y1='1480' x1='860'/>
+  <line stroke='black' stroke-width='8px' y2='1471' x2='820' y1='1480' x1='860'/>
+  <line stroke='black' stroke-width='8px' y2='1800' x2='420' y1='1600' x1='420'/>
+  <line stroke='black' stroke-width='8px' y2='1765' x2='440' y1='1800' x1='420'/>
+  <line stroke='black' stroke-width='8px' y2='1765' x2='400' y1='1800' x1='420'/>
+  <line stroke='black' stroke-width='8px' y2='1080' x2='640' y1='1600' x1='860'/>
+  <line stroke='black' stroke-width='8px' y2='1119' x2='635' y1='1080' x1='640'/>
+  <line stroke='black' stroke-width='8px' y2='1104' x2='671' y1='1080' x1='640'/>
+  <line stroke='black' stroke-width='8px' y2='1800' x2='860' y1='1600' x1='860'/>
+  <line stroke='black' stroke-width='8px' y2='1765' x2='880' y1='1800' x1='860'/>
+  <line stroke='black' stroke-width='8px' y2='1765' x2='840' y1='1800' x1='860'/>
+  <line stroke='black' stroke-width='8px' y2='1080' x2='640' y1='1920' x1='860'/>
+  <line stroke='black' stroke-width='8px' y2='1118' x2='629' y1='1080' x1='640'/>
+  <line stroke='black' stroke-width='8px' y2='1108' x2='668' y1='1080' x1='640'/>
+  <line stroke='black' stroke-width='8px' y2='2120' x2='860' y1='1920' x1='860'/>
+  <line stroke='black' stroke-width='8px' y2='2085' x2='880' y1='2120' x1='860'/>
+  <line stroke='black' stroke-width='8px' y2='2085' x2='840' y1='2120' x1='860'/>
+  <line stroke='black' stroke-width='8px' y2='1080' x2='640' y1='2240' x1='860'/>
+  <line stroke='black' stroke-width='8px' y2='1117' x2='626' y1='1080' x1='640'/>
+  <line stroke='black' stroke-width='8px' y2='1110' x2='666' y1='1080' x1='640'/>
+  <rect fill='white' stroke='black' stroke-width='6px' width='400' height='240' y='200' x='440' ry='8' rx='8'/>
+  <text x='640' y='320' font-family='sans-serif' stroke='black' fill='black' font-size='24px' text-anchor='middle' dominant-baseline='middle'>Start Game</text>
+  <rect fill='white' stroke='black' stroke-width='6px' width='400' height='240' y='520' x='440' ry='8' rx='8'/>
+  <text x='640' y='640' font-family='sans-serif' stroke='black' fill='black' font-size='24px' text-anchor='middle' dominant-baseline='middle'>Generate Random Number</text>
+  <rect fill='white' stroke='black' stroke-width='6px' width='400' height='240' y='840' x='440' ry='8' rx='8'/>
+  <text x='640' y='960' font-family='sans-serif' stroke='black' fill='black' font-size='24px' text-anchor='middle' dominant-baseline='middle'>Player Makes a Guess</text>
+  <rect fill='white' stroke='black' stroke-width='6px' width='400' height='240' y='1160' x='440' ry='8' rx='8'/>
+  <text x='640' y='1280' font-family='sans-serif' stroke='black' fill='black' font-size='24px' text-anchor='middle' dominant-baseline='middle'>Check Player's Guess</text>
+  <rect fill='white' stroke='black' stroke-width='6px' width='400' height='240' y='1480' x='220' ry='8' rx='8'/>
+  <text x='420' y='1600' font-family='sans-serif' stroke='black' fill='black' font-size='24px' text-anchor='middle' dominant-baseline='middle'>Player Guesses Correctly</text>
+  <rect fill='white' stroke='black' stroke-width='6px' width='400' height='240' y='1480' x='660' ry='8' rx='8'/>
+  <text x='860' y='1600' font-family='sans-serif' stroke='black' fill='black' font-size='24px' text-anchor='middle' dominant-baseline='middle'>Player Guesses Incorrectly</text>
+  <rect fill='white' stroke='black' stroke-width='6px' width='400' height='240' y='1800' x='220' ry='8' rx='8'/>
+  <text x='420' y='1920' font-family='sans-serif' stroke='black' fill='black' font-size='24px' text-anchor='middle' dominant-baseline='middle'>End Game</text>
+  <rect fill='white' stroke='black' stroke-width='6px' width='400' height='240' y='1800' x='660' ry='8' rx='8'/>
+  <text x='860' y='1920' font-family='sans-serif' stroke='black' fill='black' font-size='24px' text-anchor='middle' dominant-baseline='middle'>Provide Hint to Player</text>
+  <rect fill='white' stroke='black' stroke-width='6px' width='400' height='240' y='2120' x='660' ry='8' rx='8'/>
+  <text x='860' y='2240' font-family='sans-serif' stroke='black' fill='black' font-size='24px' text-anchor='middle' dominant-baseline='middle'>Update Number of Attempts</text>
+</svg>

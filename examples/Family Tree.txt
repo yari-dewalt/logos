@@ -1,0 +1,13 @@
+{ "Family Tree" }
+Grandparent = "Grandparent"
+Parent1 = "Parent 1"
+Parent2 = "Parent 2"
+Child1 = "Child 1"
+Child2 = "Child 2"
+Child3 = "Child 3"
+
+Grandparent -> Parent1
+Grandparent -> Parent2
+Parent1 -> Child1
+Parent1 -> Child2
+Parent2 -> Child3

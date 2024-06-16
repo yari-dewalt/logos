@@ -1,0 +1,32 @@
+{ "Number Guessing Game" }
+Start = "Start Game"
+GenerateNumber = "Generate Random Number"
+PlayerGuess = "Player Makes a Guess"
+CheckGuess = "Check Player's Guess"
+CorrectGuess = "Player Guesses Correctly"
+IncorrectGuess = "Player Guesses Incorrectly"
+GiveHint = "Provide Hint to Player"
+UpdateAttempts = "Update Number of Attempts"
+EndGame = "End Game"
+
+// Initial phase
+Start -> GenerateNumber
+
+// Main game loop
+GenerateNumber -> PlayerGuess
+PlayerGuess -> CheckGuess
+CheckGuess -> CorrectGuess
+CheckGuess -> IncorrectGuess
+
+// Correct guess path
+CorrectGuess -> EndGame
+
+// Incorrect guess path
+IncorrectGuess -> GiveHint
+GiveHint -> UpdateAttempts
+UpdateAttempts -> PlayerGuess
+
+// Bidirectional connections
+IncorrectGuess <-> PlayerGuess
+GiveHint <-> PlayerGuess
+UpdateAttempts <-> PlayerGuess
