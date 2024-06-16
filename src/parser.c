@@ -255,17 +255,25 @@ static void assignment(char* prev_name, bool add_edge, bool add_two_edges) {
       declare_variable(name, value);
       // Inline with arrow.
       if (add_edge) {
-        if (!get_node(interpret_result.graph, prev_name))
+        if (!get_node(interpret_result.graph, prev_name)) {
+          value = table_get(parser.variables, prev_name);
           add_node(interpret_result.graph, prev_name, value);
-        if (!get_node(interpret_result.graph, name))
+        }
+        if (!get_node(interpret_result.graph, name)) {
+          value = table_get(parser.variables, name);
           add_node(interpret_result.graph, name, value);
+        }
         add_edge_to_graph(prev_name, name);
       // Inline with double arrow.
       } else if (add_two_edges) {
-        if (!get_node(interpret_result.graph, prev_name))
+        if (!get_node(interpret_result.graph, prev_name)) {
+          value = table_get(parser.variables, prev_name);
           add_node(interpret_result.graph, prev_name, value);
-        if (!get_node(interpret_result.graph, name))
+        }
+        if (!get_node(interpret_result.graph, name)) {
+          value = table_get(parser.variables, name);
           add_node(interpret_result.graph, name, value);
+        }
         add_edge_to_graph(prev_name, name);
         add_edge_to_graph(name, prev_name);
       }
