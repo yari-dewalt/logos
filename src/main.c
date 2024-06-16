@@ -80,7 +80,7 @@ int main(int argc, char* argv[]) {
   char* path = NULL;
   char* bg_color = "white";
   char* node_color = "white";
-  int text_size = 16;
+  int text_size = 24;
 
   for (int i = 1; i < argc; i++) {
     if (strcmp(argv[i], "--version") == 0) {
