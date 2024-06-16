@@ -103,7 +103,7 @@ A -> B = "B Child" <-> C = "C Child"
 <code>/* This is an example
 of
 multi-line
-comments!</code>
+comments! */</code>
 </li>
 </ul>
 <h3>Customization</h3>
