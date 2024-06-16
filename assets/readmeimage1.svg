@@ -1,0 +1,21 @@
+<svg width='1720px' height='1360px' xmlns='http://www.w3.org/2000/svg' version='1.1' xmlns:xlink='http://www.w3.org/1999/xlink'>
+  <rect fill='white' stroke='white' stroke-width='0px' width='1720' height='1360' y='0' x='0' ry='0' rx='0'/>
+  <text x='860' y='253' font-family='sans-serif' stroke='black' fill='black' font-size='24px' text-anchor='middle' dominant-baseline='middle'>My Diagram</text>
+  <line stroke='black' stroke-width='8px' y2='786' x2='420' y1='453' x1='860'/>
+  <line stroke='black' stroke-width='8px' y2='781' x2='459' y1='786' x1='420'/>
+  <line stroke='black' stroke-width='8px' y2='749' x2='435' y1='786' x1='420'/>
+  <line stroke='black' stroke-width='8px' y2='786' x2='860' y1='453' x1='860'/>
+  <line stroke='black' stroke-width='8px' y2='751' x2='880' y1='786' x1='860'/>
+  <line stroke='black' stroke-width='8px' y2='751' x2='840' y1='786' x1='860'/>
+  <line stroke='black' stroke-width='8px' y2='786' x2='1300' y1='453' x1='860'/>
+  <line stroke='black' stroke-width='8px' y2='749' x2='1284' y1='786' x1='1300'/>
+  <line stroke='black' stroke-width='8px' y2='781' x2='1260' y1='786' x1='1300'/>
+  <rect fill='white' stroke='black' stroke-width='6px' width='400' height='240' y='333' x='660' ry='8' rx='8'/>
+  <text x='860' y='453' font-family='sans-serif' stroke='black' fill='black' font-size='16px' text-anchor='middle' dominant-baseline='middle'>Start here</text>
+  <rect fill='white' stroke='black' stroke-width='6px' width='400' height='240' y='786' x='220' ry='8' rx='8'/>
+  <text x='420' y='906' font-family='sans-serif' stroke='black' fill='black' font-size='16px' text-anchor='middle' dominant-baseline='middle'>Option 1</text>
+  <rect fill='white' stroke='black' stroke-width='6px' width='400' height='240' y='786' x='660' ry='8' rx='8'/>
+  <text x='860' y='906' font-family='sans-serif' stroke='black' fill='black' font-size='16px' text-anchor='middle' dominant-baseline='middle'>Option 2</text>
+  <rect fill='white' stroke='black' stroke-width='6px' width='400' height='240' y='786' x='1100' ry='8' rx='8'/>
+  <text x='1300' y='906' font-family='sans-serif' stroke='black' fill='black' font-size='16px' text-anchor='middle' dominant-baseline='middle'>Option 3</text>
+</svg>
