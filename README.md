@@ -1,5 +1,5 @@
 <h1 align="center">Logos</h1>
-<img src="./src/assets/logos.png"></img>
+<img src="./assets/logos.png"></img>
 <h2>About</h2>  
 <p>Designed for programmers to outline their logic and thoughts visually, Logos is a powerful diagramming and graphing tool that uses its own language with easy to understand grammar and syntax, so you can generate diagrams and graphs that represent your ideas with ease.</p>
 <p>Written entirely from scratch in C, Logos is fast and lightweight. It requires no external libraries or dependencies.</p>
@@ -18,6 +18,12 @@
     <li>A C compiler (e.g. GCC)</li>
     <li>Basic knowledge of creating and editing text files</li>
 </ul>
+<h3>Installation</h3>
+<p>Clone the repository to your local machine:</p>
+<code>git clone git@github.com:yari-dewalt/logos.git
+cd logos</code>
+<p>Compile the project:</p>
+<code>make</p>
 <h3>Usage</h3>
 <ol>
     <li>
@@ -35,7 +41,7 @@ A -> D</code>
     <li>
     <p><b>Run the Program:</b></p>
     <p>Provide the text file to Logos:</p>
-    <code>./logos input.txt</code>
+    <code>./logos input.txt [...options]</code>
     </li>
     <li>
     <p><b>View the Output:</b></p>
@@ -96,9 +102,9 @@ A -> B = "B Child" <-> C = "C Child"
     <li><b>--version</b> to check the program version.</li>
 </ul>
 <p><b>Note: </b>All option values that are valid svg values will work. This means that color names like "white" or hex or rgb values will work. If they aren't valid there will be unexpected results. It is recommended to surround option values with double quotes (examples: "orange", "rgb(30, 30, 30)", "#FFFFFFF", "24"). It should also work without but shells can behave differently (I know sometimes the parentheses without a double quote can cause problems).</p>
-<h3>Contribution</h3>
+<h2>Contribution</h2>
 <p>Contributions are welcome! Feel free to open an issue or submit a pull request.</p>
-<h3>License</h3>
+<h2>License</h2>
 <p>This project is licensed under the MIT License - see the LICENSE file for details.</p>
-<h3>Acknowledgements</h3>
+<h2>Acknowledgements</h2>
 <p>Thank you to <a href="https://github.com/mermaid-js/mermaid">Mermaid</a> for the inspiration for this project.</p>
