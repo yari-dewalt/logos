@@ -1,5 +1,7 @@
 <h1 align="center">Logos</h1>
-<img align="center" src="./assets/logos.png" width="400"></img>
+<div align="center">
+<img src="./assets/logos.png" width="400"></img>
+</div>
 <h2>About</h2>  
 <p>Designed for programmers to outline their logic and thoughts visually, Logos is a powerful diagramming and graphing tool that uses its own language with easy to understand grammar and syntax, so you can generate diagrams and graphs that represent your ideas with ease.</p>
 <p>Written entirely from scratch in C, Logos is fast and lightweight. It requires no external libraries or dependencies.</p>
@@ -46,7 +48,9 @@ A -> D</code>
     <li>
     <p><b>View the Output:</b></p>
     <p>Logos will generate an SVG file representing your logic as a graph. Open the SVG file in a web browser or any compatible viewer to see the visual representation.</p>
-    <img align="center" src="./assets/readmeimage1.svg" width="300"></img>
+    <div align="center">
+        <img src="./assets/readmeimage1.svg" width="300"></img>
+    </div>
 </ol>
 <h3>Syntax and Grammar</h3>
 <p>The basic syntax for creating a graph/diagram in Logos includes defining nodes and their connections. Here's an outline for creating your own graph:</p>
